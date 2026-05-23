@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/eonix-baner.png" alt="EONIX Banner" width="100%">
+  <img src="eonix-baner.png" alt="EONIX Banner" width="100%">
 </p>
 
 # EONIX Infrastructure 🛡️
