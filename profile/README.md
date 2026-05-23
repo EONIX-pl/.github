@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile/eonix-baner.png" alt="EONIX Banner" width="100%">
+</p>
+
 # EONIX Infrastructure 🛡️
 
 Welcome to the official open-source hub of **EONIX**. We build high-security, sovereign cloud infrastructure designed for mission-critical applications and AI workloads. Our philosophy is rooted in **Zero-Trust architecture**, moving past standard virtualization into fully fortified application sandboxing.
