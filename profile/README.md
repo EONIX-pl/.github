@@ -26,8 +26,9 @@ We believe traditional shared hosting is fundamentally broken. Our entire infras
 
 While our core virtualization pipeline and ATR engines remain proprietary to protect node integrity, we actively maintain our open-source edge tools, SDKs, and documentations here:
 
-* **[api-documentation](https://github.com/Eonix-Infrastructure/api-documentation):** Complete guides, OpenAPI specifications, and integration tutorials for deploying into the Eonix environment.
-* **[eonix-status](https://github.com/Eonix-Infrastructure/eonix-status):** Public uptime tracking logs and edge node latency analytics.
+* **[api-documentation](https://github.com/EONIX-pl/api-documentation):** Complete guides, OpenAPI specifications, and integration tutorials for deploying into the Eonix environment.
+* **[eonix-status](https://github.com/EONIX-pl/eonix-status):** Public uptime tracking logs and edge node latency analytics.
+* **[eonix-cli](https://github.com/EONIX-pl/eonix-cli):** Official reference and documentation for the EONIX CLI - The ultimate shell assistant for modern web application deployment.
 
 ---
 
